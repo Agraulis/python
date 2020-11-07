@@ -59,12 +59,9 @@ def my_func(*args):
     if len(my_list) == 1:
         print('One element is entered.')
         return my_list[0]
-<<<<<<< Updated upstream
     elif len(my_list) == 2:
         print('Two elements are entered.')
         return sum(my_list)
-=======
->>>>>>> Stashed changes
     else:
         print('All elements are equal.') if min(my_list) == max(my_list) else None
         my_list.remove(min(my_list))
