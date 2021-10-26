@@ -1,1 +1,1 @@
-# python's projects for GeekBrains
+# python homework projects for gb.ru
